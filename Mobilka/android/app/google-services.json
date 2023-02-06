@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "61322253876",
+    "project_id": "pcfix-80900",
+    "storage_bucket": "pcfix-80900.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:61322253876:android:31389fd0049cd795055c61",
+        "android_client_info": {
+          "package_name": "com.example.mobilka"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "61322253876-22ar6tumdiigp94n1h75cnr68kb1fihq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCumMnpOZyCCBB8qdE1EwnJ3YWjFQRCngM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "61322253876-22ar6tumdiigp94n1h75cnr68kb1fihq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
